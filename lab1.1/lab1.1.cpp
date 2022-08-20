@@ -1,8 +1,6 @@
 ﻿#include <iostream>
 #include <cmath>
-
 using namespace std;
-
 int main()
 {
     double b, otv, up, low, a, q, w;    //тип данных и переменных
